@@ -28,6 +28,7 @@ This theme includes 3 live wallpapers:
    ```
    source: "images/background.mp4"
 Replace the filename with your wallpaper: like source: "SequoiaMorning.mp4"
+test: sddm-greeter --test-mode --theme macOS-Sequoia
 
 ### Installation
 
