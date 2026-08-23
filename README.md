@@ -1,8 +1,9 @@
+
 # macOS-Sequoia-SDDM
 
 ## Disclaimer
 - **Assets & Design:** Video wallpapers, visual assets, and UI design language belong to **Apple Inc.**
-- **Base:** UI layout and theme base by **pearOS**.
+- **Base:** UI layout and theme base by **pearOS** and yes this is a fork.
 
 ---
 
@@ -26,7 +27,23 @@ This theme includes 3 live wallpapers:
 2. Locate **line 76**:
    ```
    source: "images/background.mp4"
-   replace the filename with your wallpaper:
+Replace the filename with your wallpaper: like source: "SequoiaMorning.mp4"
+
+### Installation
+
+[!WARNING]
+Large File Size: The archive is heavy (~3 GB) because it includes high-definition standard macOS live wallpapers. If you don't want them, download the lightweight master zip directly from GitHub instead.
+
+[Download the theme](https://drive.google.com/file/d/182iNJIUSPw2en8P0WYGq7VCXjjnFo3Jw/view?usp=sharing)
+
+Once the file is downloaded and extracted, copy the theme folder to your /usr/share/sddm/themes directory:
 
 
-source: "SequoiaMorning.mp4"
+sudo mkdir -p /usr/share/sddm/themes/macOS-Sequoia && sudo tar -xzvf macOS-Sequoia-SDDM.tar.gz -C /usr/share/sddm/themes/macOS-Sequoia --strip-components=1
+Then open your SDDM configuration file at /etc/sddm.conf and update the
+
+[Theme] section:
+
+[Theme]
+
+Current=macOS-Sequoia
