@@ -10,3 +10,12 @@
 **Showcase**
 
 https://github.com/user-attachments/assets/aa63e42b-7509-4300-aedb-8f7961067df4
+
+
+the theme comes with 3 live wallpapers that are in FHD:
+SequoiaMorning.mp4
+SequoiaNight.mp4
+background.mp4 (SequoiaSunruise) in images
+to chnage the background use any text editor like kate or nano and open Main.qml then locate line 76 and replace 
+  source: "images/background.mp4"
+  with   source: "SequoiaMorning.mp4"
