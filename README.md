@@ -44,7 +44,11 @@ Large File Size: The archive is heavy (~1 GB) because it includes standard macOS
 
 [Download the theme](https://drive.google.com/file/d/1TAHWyCkMo69zcXe35QYwUfyQ8Xwxa1So/view?usp=sharing)
 
-Once the file is downloaded and extracted, copy the t
+Once the file is downloaded and extracted, copy the it to the
 
 
-heme folder and run sudo ./install.sh
+home folder and run sudo ./install.sh
+
+
+if you downloaded one without wallpapers move the folder with the theme to /usr/share/sddm/themes and edit /etc/sddm.conf   
+
