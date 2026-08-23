@@ -14,6 +14,8 @@ https://github.com/user-attachments/assets/aa63e42b-7509-4300-aedb-8f7961067df4
 ---
 
 ## Wallpapers
+for new Max wallpapers scroll here https://gist.github.com/theothernt/57a51cade0c12c407f48a5121e0939d5?permalink_comment_id=5175532
+
 
 This theme includes 3 live wallpapers:
 
