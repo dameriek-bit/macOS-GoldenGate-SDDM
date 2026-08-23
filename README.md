@@ -1,3 +1,6 @@
+
+
+
 # macOS-Sequoia-SDDM
 ## Disclaimer
 - **Assets and Design:** Video wallpapers, visual assets, and UI design language belong to **Apple Inc.**
@@ -5,4 +8,5 @@
 - **Wallpapers:** in this theme belong to Apple Inc.
 
 **Showcase**
-<video src="https://github.com/dameriek-bit/macOS-Sequoia-SDDM/raw/main/macOS-Sequoia-SDDM-Main/2026-08-23%2014-50-54.mp4" controls width="100%"></video>
+
+https://github.com/user-attachments/assets/aa63e42b-7509-4300-aedb-8f7961067df4
