@@ -57,5 +57,5 @@ Once the file is downloaded and extracted, copy the it to the
 home folder and run sudo ./install.sh
 
 
-if you downloaded one without wallpapers move the folder with the theme to /usr/share/sddm/themes and edit /etc/sddm.conf   
+## if you downloaded one without wallpapers from github you will have to replace the wallpaper in confg of the theme before using it and then move the folder with the theme to /usr/share/sddm/themes and edit /etc/sddm.conf   
 
