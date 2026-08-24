@@ -20,6 +20,11 @@ for new/old Mac wallpapers scroll here https://gist.github.com/theothernt/57a51c
 download static wallpapers here 
 
 
+Day: https://github.com/dameriek-bit/macOS-GoldenGate-SDDM/blob/main/GoldenGate_Mac_Night.jpg
+
+
+Night: https://github.com/dameriek-bit/macOS-GoldenGate-SDDM/blob/main/GoldenGate_Mac_Night.jpg
+
 
 This theme includes 4 live wallpapers:
 
