@@ -17,7 +17,7 @@ press control plus s to save the file and control plus x to exit
 
 ## Wallpapers
 for new/old Mac wallpapers scroll here https://gist.github.com/theothernt/57a51cade0c12c407f48a5121e0939d5?permalink_comment_id=5175532
-download static wallpapers in static folder in this project
+download static wallpapers here 
 
 
 
