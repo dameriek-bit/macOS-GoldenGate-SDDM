@@ -52,7 +52,6 @@ Large File Size: The archive is heavy (~1 GB) because it includes standard macOS
 
 ## Dependencies Installation
 
-Choose the command matching your Linux distribution to install the required Qt6 multimedia engines, SVG assets, and deployment utilities:
 
 ### Arch Linux / CachyOS / Pear OS
 ```bash
