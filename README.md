@@ -44,10 +44,38 @@ GoldenGateNight.mp4 (Nighttime)
    source: "images/background.mp4"
 Replace the filename with your wallpaper: like source: "SequoiaMorning.mp4"
 test: sddm-greeter --test-mode --theme /usr/share/sddm/themes/usr/share/sddm/themes/macOS-Sequoia
+
 ### Installation
 
 [!WARNING]
-Large File Size: The archive is heavy (~1 GB) because it includes standard macOS live wallpapers. If you don't want them, download the lightweight master zip directly from GitHub instead.
+Large File Size: The archive is heavy (~1 GB) because it includes standard macOS live wallpapers. If you don't want them, download the lightweight master zip directly from GitHub instead, and the installer may or may nmto freeze your system so better create an sddm config.
+
+## Dependencies Installation
+
+Choose the command matching your Linux distribution to install the required Qt6 multimedia engines, SVG assets, and deployment utilities:
+
+### Arch Linux / CachyOS / Pear OS
+```bash
+sudo pacman -S --needed sddm qt6-declarative qt6-multimedia-ffmpeg qt6-svg qt6-5compat rsync
+```
+
+### Ubuntu / Debian / Pop!_OS
+```bash
+sudo apt update && sudo apt install -y qml6-module-qtquick-controls qml6-module-qtmultimedia qt6-multimedia-plugins qml6-module-qtsvg qt6-5compat-dev rsync
+```
+
+### Fedora / Nobara
+```bash
+sudo dnf install -y sddm qt6-qtdeclarative qt6-qtmultimedia qt6-qtsvg qt6-qt5compat rsync
+```
+
+### OpenSUSE
+```bash
+sudo zypper install -y sddm qt6-declarative qt6-multimedia qt6-multimedia-imports qt6-svg qt6-5compat rsync
+```
+
+
+
 
 [Download the theme](https://drive.google.com/file/d/1TAHWyCkMo69zcXe35QYwUfyQ8Xwxa1So/view?usp=sharing)
 
